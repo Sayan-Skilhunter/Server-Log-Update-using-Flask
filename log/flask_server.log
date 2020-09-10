@@ -1,0 +1,32 @@
+2020-09-05 11:58:53,282 - INFO -  * Restarting with stat
+2020-09-05 11:58:53,916 - WARNING -  * Debugger is active!
+2020-09-05 11:58:53,972 - INFO -  * Debugger PIN: 120-240-320
+2020-09-05 11:58:54,004 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-05 11:59:22,035 - INFO - 127.0.0.1 - - [05/Sep/2020 11:59:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-09-05 11:59:22,264 - INFO - 127.0.0.1 - - [05/Sep/2020 11:59:22] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-05 11:59:22,356 - INFO - 127.0.0.1 - - [05/Sep/2020 11:59:22] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-05 11:59:22,471 - INFO - 127.0.0.1 - - [05/Sep/2020 11:59:22] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-05 11:59:22,937 - INFO - 127.0.0.1 - - [05/Sep/2020 11:59:22] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-05 11:59:22,955 - INFO - 127.0.0.1 - - [05/Sep/2020 11:59:22] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-05 11:59:23,144 - INFO - 127.0.0.1 - - [05/Sep/2020 11:59:23] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-05 12:00:41,730 - INFO -  * Restarting with stat
+2020-09-05 12:00:42,442 - WARNING -  * Debugger is active!
+2020-09-05 12:00:42,496 - INFO -  * Debugger PIN: 120-240-320
+2020-09-05 12:00:42,529 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-05 12:01:17,310 - INFO - Called Hello World
+2020-09-05 12:01:17,314 - INFO - 127.0.0.1 - - [05/Sep/2020 12:01:17] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-05 12:01:17,542 - INFO - 127.0.0.1 - - [05/Sep/2020 12:01:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-09-05 13:22:20,527 - INFO -  * Restarting with stat
+2020-09-05 13:22:21,093 - WARNING -  * Debugger is active!
+2020-09-05 13:22:21,157 - INFO -  * Debugger PIN: 120-240-320
+2020-09-05 13:22:21,190 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-05 18:45:40,191 - INFO -  * Restarting with stat
+2020-09-05 18:45:40,858 - WARNING -  * Debugger is active!
+2020-09-05 18:45:40,921 - INFO -  * Debugger PIN: 120-240-320
+2020-09-05 18:45:40,955 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-05 18:45:57,809 - INFO - Called Hello World
+2020-09-05 18:45:57,812 - INFO - 127.0.0.1 - - [05/Sep/2020 18:45:57] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-05 18:47:51,305 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-05 18:47:51,378 - INFO -  * Restarting with stat
+2020-09-05 18:47:55,293 - INFO -  * Restarting with stat
+2020-09-05 18:47:57,488 - INFO -  * Restarting with stat

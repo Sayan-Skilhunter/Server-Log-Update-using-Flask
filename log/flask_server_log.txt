@@ -1,0 +1,201 @@
+2020-09-05 18:47:53,035 - WARNING -  * Debugger is active!
+2020-09-05 18:47:53,043 - INFO -  * Debugger PIN: 120-240-320
+2020-09-05 18:47:53,078 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-05 18:47:55,233 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-05 18:47:56,192 - INFO -  * Debugger PIN: 120-240-320
+2020-09-05 18:47:56,247 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-05 18:47:57,373 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-05 18:47:58,118 - INFO -  * Debugger PIN: 120-240-320
+2020-09-05 18:47:58,151 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-05 18:48:32,154 - INFO - Called Hello World
+2020-09-05 18:48:32,154 - INFO - 127.0.0.1 - - [05/Sep/2020 18:48:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-05 21:39:17,969 - INFO -  * Debugger PIN: 120-240-320
+2020-09-05 21:39:17,981 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-05 21:39:20,489 - INFO - Called Hello World
+2020-09-05 21:39:20,491 - INFO - 127.0.0.1 - - [05/Sep/2020 21:39:20] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-05 21:39:33,805 - INFO - 127.0.0.1 - - [05/Sep/2020 21:39:33] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2020-09-05 21:39:33,891 - INFO - 127.0.0.1 - - [05/Sep/2020 21:39:33] "[37mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-05 21:39:33,896 - INFO - 127.0.0.1 - - [05/Sep/2020 21:39:33] "[37mGET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-05 21:39:33,907 - INFO - 127.0.0.1 - - [05/Sep/2020 21:39:33] "[37mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-05 21:39:34,039 - INFO - 127.0.0.1 - - [05/Sep/2020 21:39:34] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-05 21:39:34,053 - INFO - 127.0.0.1 - - [05/Sep/2020 21:39:34] "[37mGET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-05 21:39:34,093 - INFO - 127.0.0.1 - - [05/Sep/2020 21:39:34] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-05 21:40:10,206 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-05 21:40:10,264 - INFO -  * Restarting with stat
+2020-09-05 21:40:10,849 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-05 21:40:14,516 - INFO - 127.0.0.1 - - [05/Sep/2020 21:40:14] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 19:19:42,473 - INFO -  * Debugger PIN: 128-049-545
+2020-09-09 19:19:42,485 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 19:19:48,344 - INFO - Called Hello World
+2020-09-09 19:19:48,344 - INFO - 127.0.0.1 - - [09/Sep/2020 19:19:48] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-09 19:19:48,561 - INFO - 127.0.0.1 - - [09/Sep/2020 19:19:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-09-09 19:19:53,192 - INFO - Called Hello World
+2020-09-09 19:19:53,200 - INFO - 127.0.0.1 - - [09/Sep/2020 19:19:53] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-09 19:20:04,476 - INFO - 127.0.0.1 - - [09/Sep/2020 19:20:04] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 19:21:57,250 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-09 19:21:57,384 - INFO -  * Restarting with stat
+2020-09-09 19:21:58,271 - WARNING -  * Debugger is active!
+2020-09-09 19:21:58,296 - INFO -  * Debugger PIN: 128-049-545
+2020-09-09 19:21:58,329 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 19:22:19,841 - INFO -  * Restarting with stat
+2020-09-09 19:22:20,502 - WARNING -  * Debugger is active!
+2020-09-09 19:22:20,507 - INFO -  * Debugger PIN: 128-049-545
+2020-09-09 19:22:20,522 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 19:23:31,228 - INFO - 127.0.0.1 - - [09/Sep/2020 19:23:31] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2020-09-09 19:23:31,397 - INFO - 127.0.0.1 - - [09/Sep/2020 19:23:31] "[37mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-09 19:23:31,533 - INFO - 127.0.0.1 - - [09/Sep/2020 19:23:31] "[37mGET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-09 19:23:31,667 - INFO - 127.0.0.1 - - [09/Sep/2020 19:23:31] "[37mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-09 19:23:32,236 - INFO - 127.0.0.1 - - [09/Sep/2020 19:23:32] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 19:23:32,252 - INFO - 127.0.0.1 - - [09/Sep/2020 19:23:32] "[37mGET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-09 19:23:32,432 - INFO - 127.0.0.1 - - [09/Sep/2020 19:23:32] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 19:24:22,547 - INFO -  * Restarting with stat
+2020-09-09 19:24:23,188 - INFO -  * Debugger PIN: 128-049-545
+2020-09-09 19:24:23,208 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 19:24:26,695 - INFO - Called Hello World
+2020-09-09 19:24:26,698 - INFO - 127.0.0.1 - - [09/Sep/2020 19:24:26] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-09 19:24:33,049 - INFO - 127.0.0.1 - - [09/Sep/2020 19:24:33] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 19:26:54,382 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-09 19:26:54,458 - INFO -  * Restarting with stat
+2020-09-09 19:26:56,468 - WARNING -  * Debugger is active!
+2020-09-09 19:26:56,492 - INFO -  * Debugger PIN: 128-049-545
+2020-09-09 19:26:56,577 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 19:27:02,519 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:02] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2020-09-09 19:27:02,603 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:02] "[37mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-09 19:27:02,653 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:02] "[37mGET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-09 19:27:02,653 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:02] "[37mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-09 19:27:02,835 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:02] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 19:27:02,849 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:02] "[37mGET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-09 19:27:02,887 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:02] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 19:27:05,271 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:05] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2020-09-09 19:27:05,336 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:05] "[37mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-09 19:27:05,368 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:05] "[37mGET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-09 19:27:05,371 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:05] "[37mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-09 19:27:05,454 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:05] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 19:27:05,467 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:05] "[37mGET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-09 19:27:05,499 - INFO - 127.0.0.1 - - [09/Sep/2020 19:27:05] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 19:31:09,590 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-09 19:31:09,668 - INFO -  * Restarting with stat
+2020-09-09 19:31:10,417 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 19:31:25,568 - INFO - Called Hello World
+2020-09-09 19:31:25,569 - INFO - 127.0.0.1 - - [09/Sep/2020 19:31:25] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-09 19:31:39,327 - INFO - 127.0.0.1 - - [09/Sep/2020 19:31:39] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2020-09-09 19:31:39,424 - INFO - 127.0.0.1 - - [09/Sep/2020 19:31:39] "[37mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-09 19:31:39,477 - INFO - 127.0.0.1 - - [09/Sep/2020 19:31:39] "[37mGET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-09 19:31:39,510 - INFO - 127.0.0.1 - - [09/Sep/2020 19:31:39] "[37mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-09 19:31:39,695 - INFO - 127.0.0.1 - - [09/Sep/2020 19:31:39] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 19:31:39,717 - INFO - 127.0.0.1 - - [09/Sep/2020 19:31:39] "[37mGET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-09 19:38:07,211 - INFO - 127.0.0.1 - - [09/Sep/2020 19:38:07] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 19:38:07,353 - INFO - 127.0.0.1 - - [09/Sep/2020 19:38:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-09-09 20:06:18,102 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-09 20:06:18,241 - INFO -  * Restarting with stat
+2020-09-09 20:06:19,042 - WARNING -  * Debugger is active!
+2020-09-09 20:06:19,051 - INFO -  * Debugger PIN: 128-049-545
+2020-09-09 20:06:19,073 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 20:06:29,420 - INFO -  * Restarting with stat
+2020-09-09 20:06:30,067 - WARNING -  * Debugger is active!
+2020-09-09 20:06:30,075 - INFO -  * Debugger PIN: 128-049-545
+2020-09-09 20:06:30,086 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 20:06:45,887 - INFO - 127.0.0.1 - - [09/Sep/2020 20:06:45] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2020-09-09 20:06:45,974 - INFO - 127.0.0.1 - - [09/Sep/2020 20:06:45] "[37mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-09 20:06:46,107 - INFO - 127.0.0.1 - - [09/Sep/2020 20:06:46] "[37mGET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-09 20:06:46,335 - INFO - 127.0.0.1 - - [09/Sep/2020 20:06:46] "[37mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-09 20:06:46,752 - INFO - 127.0.0.1 - - [09/Sep/2020 20:06:46] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 20:06:46,762 - INFO - 127.0.0.1 - - [09/Sep/2020 20:06:46] "[37mGET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-09 20:06:47,018 - INFO - 127.0.0.1 - - [09/Sep/2020 20:06:47] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 20:23:38,956 - INFO -  * Debugger PIN: 128-049-545
+2020-09-09 20:23:38,977 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 20:23:41,725 - INFO - Called Hello World
+2020-09-09 20:23:41,727 - INFO - 127.0.0.1 - - [09/Sep/2020 20:23:41] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-09 20:23:58,094 - INFO - 127.0.0.1 - - [09/Sep/2020 20:23:58] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2020-09-09 20:23:58,151 - INFO - 127.0.0.1 - - [09/Sep/2020 20:23:58] "[37mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-09 20:23:58,187 - INFO - 127.0.0.1 - - [09/Sep/2020 20:23:58] "[37mGET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-09 20:23:58,188 - INFO - 127.0.0.1 - - [09/Sep/2020 20:23:58] "[37mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-09 20:23:58,333 - INFO - 127.0.0.1 - - [09/Sep/2020 20:23:58] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 20:23:58,345 - INFO - 127.0.0.1 - - [09/Sep/2020 20:23:58] "[37mGET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-09 20:44:34,767 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 20:44:37,342 - INFO - Called Hello World
+2020-09-09 20:44:37,343 - INFO - 127.0.0.1 - - [09/Sep/2020 20:44:37] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-09 20:44:43,732 - INFO - 127.0.0.1 - - [09/Sep/2020 20:44:43] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2020-09-09 20:44:43,819 - INFO - 127.0.0.1 - - [09/Sep/2020 20:44:43] "[37mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-09 20:44:43,821 - INFO - 127.0.0.1 - - [09/Sep/2020 20:44:43] "[37mGET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-09 20:44:43,822 - INFO - 127.0.0.1 - - [09/Sep/2020 20:44:43] "[37mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-09 20:44:43,957 - INFO - 127.0.0.1 - - [09/Sep/2020 20:44:43] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 20:44:43,973 - INFO - 127.0.0.1 - - [09/Sep/2020 20:44:43] "[37mGET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-09 20:47:42,768 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-09 20:47:42,837 - INFO -  * Restarting with stat
+2020-09-09 20:47:43,547 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 20:47:46,399 - INFO - Called Hello World
+2020-09-09 20:47:46,400 - INFO - 127.0.0.1 - - [09/Sep/2020 20:47:46] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-09 20:47:56,853 - INFO - 127.0.0.1 - - [09/Sep/2020 20:47:56] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2020-09-09 20:47:56,913 - INFO - 127.0.0.1 - - [09/Sep/2020 20:47:56] "[37mGET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-09 20:47:56,915 - INFO - 127.0.0.1 - - [09/Sep/2020 20:47:56] "[37mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-09 20:47:56,919 - INFO - 127.0.0.1 - - [09/Sep/2020 20:47:56] "[37mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-09 20:47:56,984 - INFO - 127.0.0.1 - - [09/Sep/2020 20:47:56] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 20:47:57,023 - INFO - 127.0.0.1 - - [09/Sep/2020 20:47:57] "[37mGET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-09 20:52:51,658 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-09 20:52:51,740 - INFO -  * Restarting with stat
+2020-09-09 20:52:56,957 - INFO - Called Hello World
+2020-09-09 20:52:56,959 - INFO - 127.0.0.1 - - [09/Sep/2020 20:52:56] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-09 20:53:04,172 - INFO - 127.0.0.1 - - [09/Sep/2020 20:53:04] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2020-09-09 20:53:04,232 - INFO - 127.0.0.1 - - [09/Sep/2020 20:53:04] "[37mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-09 20:53:04,234 - INFO - 127.0.0.1 - - [09/Sep/2020 20:53:04] "[37mGET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-09 20:53:04,238 - INFO - 127.0.0.1 - - [09/Sep/2020 20:53:04] "[37mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-09 20:53:04,321 - INFO - 127.0.0.1 - - [09/Sep/2020 20:53:04] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 20:53:04,344 - INFO - 127.0.0.1 - - [09/Sep/2020 20:53:04] "[37mGET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-09 20:55:41,809 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-09 20:55:41,863 - INFO -  * Restarting with stat
+2020-09-09 20:55:42,521 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 20:55:46,294 - INFO - Called Hello World
+2020-09-09 20:55:46,295 - INFO - 127.0.0.1 - - [09/Sep/2020 20:55:46] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-09 20:55:51,384 - INFO - 127.0.0.1 - - [09/Sep/2020 20:55:51] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 20:57:46,823 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-09 20:57:46,878 - INFO -  * Restarting with stat
+2020-09-09 20:57:47,444 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 20:57:50,520 - INFO - Called Hello World
+2020-09-09 20:57:50,520 - INFO - 127.0.0.1 - - [09/Sep/2020 20:57:50] "[37mGET / HTTP/1.1[0m" 200 -
+2020-09-09 20:57:57,541 - INFO - 127.0.0.1 - - [09/Sep/2020 20:57:57] "[35m[1mGET /home HTTP/1.1[0m" 500 -
+2020-09-09 20:57:57,593 - INFO - 127.0.0.1 - - [09/Sep/2020 20:57:57] "[37mGET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-09-09 20:57:57,596 - INFO - 127.0.0.1 - - [09/Sep/2020 20:57:57] "[37mGET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-09-09 20:57:57,605 - INFO - 127.0.0.1 - - [09/Sep/2020 20:57:57] "[37mGET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-09-09 20:57:57,680 - INFO - 127.0.0.1 - - [09/Sep/2020 20:57:57] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 20:57:57,725 - INFO - 127.0.0.1 - - [09/Sep/2020 20:57:57] "[37mGET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-09-09 20:57:57,764 - INFO - 127.0.0.1 - - [09/Sep/2020 20:57:57] "[37mGET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-09-09 20:59:55,942 - INFO -  * Detected change in 'C:\\Users\\sayan\\enrollment\\main.py', reloading
+2020-09-09 20:59:55,999 - INFO -  * Restarting with stat
+2020-09-09 20:59:56,555 - INFO -  * Debugger PIN: 128-049-545
+2020-09-09 20:59:56,570 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-09 21:00:09,928 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:09] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:10,889 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:10] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:11,303 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:11] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:11,716 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:11] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:14,829 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:14] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:16,094 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:16] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:17,200 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:17] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:18,088 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:18] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:19,230 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:19] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:20,427 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:20] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:21,861 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:21] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:25,004 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:25] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:25,755 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:25] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:26,359 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:26] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-09 21:00:27,182 - INFO - 127.0.0.1 - - [09/Sep/2020 21:00:27] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:46:38,076 - INFO -  * Restarting with stat
+2020-09-10 18:46:38,710 - WARNING -  * Debugger is active!
+2020-09-10 18:46:38,771 - INFO -  * Debugger PIN: 128-049-545
+2020-09-10 18:46:38,802 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-09-10 18:47:04,339 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:04] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:04,618 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-09-10 18:47:43,285 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:43] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:45,009 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:45] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:46,042 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:46] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:46,933 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:46] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:47,858 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:47] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:48,787 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:48] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:50,415 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:50] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:51,833 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:51] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:53,289 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:53] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:54,472 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:54] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:55,676 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:55] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:56,567 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:56] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:57,384 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:57] "[37mGET /home HTTP/1.1[0m" 200 -
+2020-09-10 18:47:58,439 - INFO - 127.0.0.1 - - [10/Sep/2020 18:47:58] "[37mGET /home HTTP/1.1[0m" 200 -
